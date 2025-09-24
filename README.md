@@ -185,10 +185,3 @@ npm run build
 
 This creates an optimized build in the `build` folder that can be deployed to any static hosting service.
 
-## License
-
-This project is created for educational purposes as part of an assignment.
-
-## Support
-
-For any questions or issues, please refer to the code comments or create an issue in the project repository.
